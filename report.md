@@ -8,8 +8,8 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-* [Ошибка валидации карт American Express, MIR, Diners Club - Carte Blanche, Diners Club - International модулем "Credit Card Number Validator" #1](https://github.com/leonidbeltsov/JavaTask1-Credit-Card-Number-Validator/issues/1)
-* [Ошибка валидации девятнадцатизначных номеров карт VISA, Discover, JCB модулем "Credit Card Number Validator" #2](https://github.com/leonidbeltsov/JavaTask1-Credit-Card-Number-Validator/issues/2)
+* [Ошибка валидации карт American Express, MIR, Diners Club - Carte Blanche, Diners Club - International #1](https://github.com/leonidbeltsov/JavaTask1-Credit-Card-Number-Validator/issues/1)
+* [Ошибка валидации девятнадцатизначных номеров карт VISA, Discover, JCB #2](https://github.com/leonidbeltsov/JavaTask1-Credit-Card-Number-Validator/issues/2)
 
 ### Описание процесса тестирования
 
